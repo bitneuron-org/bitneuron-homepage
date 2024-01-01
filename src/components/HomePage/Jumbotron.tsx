@@ -1,5 +1,5 @@
 import { useEffect, useLayoutEffect, useState } from "react";
-import Typewriter from "typewriter-effect/dist/core";
+import { Typewriter } from "typewriter-effect/dist/core";
 import { BtnWebApp, ExternalLink } from "components";
 import { APP_LINK } from "config/constants/constant";
 
