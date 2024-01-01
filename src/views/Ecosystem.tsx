@@ -62,9 +62,9 @@ const Ecosystem = () => {
           Jackson Li, Co-founder of 0xscope
         </h2>
         <p className="text-[12px] font-light sm:text-lg mx-4">
-          As technology advances, AI will become even more important in shaping our future. BitNeuron
-          team collaboration with industry leaders to apply AI to on-chain data is exciting and has
-          the potential to revolutionize decentralized networks.
+          As technology advances, AI will become even more important in shaping our future.
+          BitNeuron team collaboration with industry leaders to apply AI to on-chain data is
+          exciting and has the potential to revolutionize decentralized networks.
         </p>
       </div>
       <h2 className="text-[16px] text-center m-auto text-gray-light font-semibold sm:text-2xl mx-4 my-4 sm:m-0 sm:mt-16">

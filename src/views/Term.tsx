@@ -118,15 +118,15 @@ const Term = () => {
         6. INVESTIGATIONS.
       </h1>
       <p className="text-[12px] font-light sm:text-xl my-4">
-        BitNeuron may, but is not obligated to, monitor or review BitNeuron Properties and Content at
-        any time. Without limiting the foregoing, BitNeuron shall have the right, in its sole
+        BitNeuron may, but is not obligated to, monitor or review BitNeuron Properties and Content
+        at any time. Without limiting the foregoing, BitNeuron shall have the right, in its sole
         discretion, to remove any of Your Content for any reason (or no reason), including if such
         Content violates the Agreement or any applicable law. Although BitNeuron does not generally
-        monitor user activity occurring in connection with BitNeuron Properties or Content, if BitNeuron
-        becomes aware of any possible violations by you of any provision of the Agreement, BitNeuron
-        reserves the right to investigate such violations, and BitNeuron may, at its sole discretion,
-        immediately terminate your license to use BitNeuron Properties, or change, alter or remove
-        Your Content, in whole or in part, without prior notice to you.
+        monitor user activity occurring in connection with BitNeuron Properties or Content, if
+        BitNeuron becomes aware of any possible violations by you of any provision of the Agreement,
+        BitNeuron reserves the right to investigate such violations, and BitNeuron may, at its sole
+        discretion, immediately terminate your license to use BitNeuron Properties, or change, alter
+        or remove Your Content, in whole or in part, without prior notice to you.
       </p>
       <h1 className="text-[18px] font-semibold sm:text-2xl leading-tight text-green">
         7. INTERACTIONS WITH OTHER USERS.
@@ -217,22 +217,22 @@ The exclusions and limitations of damages set forth above are fundamental elemen
       </h1>
       <p className="text-[12px] font-light sm:text-xl my-4 whitespace-pre-line">
         BitNeuron reserves the right to: (a) take appropriate legal action, including without
-        limitation, referral to law enforcement, for any illegal or unauthorized use of the BitNeuron
-        Properties and/or (b) terminate or suspend your access to all or part of the BitNeuron
-        Properties for any or no reason, including without limitation, any violation of the
-        Agreement. If BitNeuron becomes aware of any possible violations by you of the Agreement,
-        BitNeuron reserves the right to investigate such violations. If, as a result of the
-        investigation, BitNeuron believes that criminal activity has occurred, BitNeuron reserves the
-        right to refer the matter to, and to cooperate with, any and all applicable legal
-        authorities. BitNeuron is entitled, except to the extent prohibited by applicable law, to
-        disclose any information or materials on or in BitNeuron Properties, including Your Content,
-        in BitNeuron’s possession in connection with your use of BitNeuron Properties, to (i) comply
-        with applicable laws, legal process or governmental request; (ii) enforce the Agreement,
-        (iii) respond to any claims that Your Content violates the rights of third parties, (iv)
-        respond to your requests for customer service, or (v) protect the rights, property or
-        personal safety of BitNeuron, its Registered Users or the public, and all enforcement or other
-        government officials, as BitNeuron in its sole discretion believes to be necessary or
-        appropriate.
+        limitation, referral to law enforcement, for any illegal or unauthorized use of the
+        BitNeuron Properties and/or (b) terminate or suspend your access to all or part of the
+        BitNeuron Properties for any or no reason, including without limitation, any violation of
+        the Agreement. If BitNeuron becomes aware of any possible violations by you of the
+        Agreement, BitNeuron reserves the right to investigate such violations. If, as a result of
+        the investigation, BitNeuron believes that criminal activity has occurred, BitNeuron
+        reserves the right to refer the matter to, and to cooperate with, any and all applicable
+        legal authorities. BitNeuron is entitled, except to the extent prohibited by applicable law,
+        to disclose any information or materials on or in BitNeuron Properties, including Your
+        Content, in BitNeuron’s possession in connection with your use of BitNeuron Properties, to
+        (i) comply with applicable laws, legal process or governmental request; (ii) enforce the
+        Agreement, (iii) respond to any claims that Your Content violates the rights of third
+        parties, (iv) respond to your requests for customer service, or (v) protect the rights,
+        property or personal safety of BitNeuron, its Registered Users or the public, and all
+        enforcement or other government officials, as BitNeuron in its sole discretion believes to
+        be necessary or appropriate.
       </p>
       <h1 className="text-[18px] font-semibold sm:text-2xl leading-tight text-green">
         12. TERM AND TERMINATION.
@@ -266,11 +266,11 @@ If your registration(s) with, or ability to access BitNeuron Properties is disco
         BitNeuron Properties can be accessed from countries around the world and may contain
         references to Services and Content that are not available in your country. These references
         do not imply that BitNeuron intends to announce such Services or Content in your country.
-        BitNeuron Properties are controlled and offered by BitNeuron from its facilities in the United
-        States of America. BitNeuron makes no representations that BitNeuron Properties are appropriate
-        or available for use in other locations. Those who access or use BitNeuron Properties from
-        other countries do so at their own volition and are responsible for compliance with local
-        law.
+        BitNeuron Properties are controlled and offered by BitNeuron from its facilities in the
+        United States of America. BitNeuron makes no representations that BitNeuron Properties are
+        appropriate or available for use in other locations. Those who access or use BitNeuron
+        Properties from other countries do so at their own volition and are responsible for
+        compliance with local law.
       </p>
       <h1>14. DISPUTE RESOLUTION.</h1>
       <p className="text-[12px] font-light sm:text-xl my-4 whitespace-pre-line">

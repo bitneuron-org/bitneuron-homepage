@@ -61,8 +61,8 @@ const About = () => (
       management, next generation social networking, targeted user growth, decentralized Web3
       content distribution, identity, reputation, personalized recommendation and fully
       decentralized data ownership. Data ownership is given back to users, while data analytics and
-      intelligence capacities are maintained by BitNeuron Network in a fully decentralized manner. The
-      learned behaviors are accessible through smart contracts in BitNeuron network or any other
+      intelligence capacities are maintained by BitNeuron Network in a fully decentralized manner.
+      The learned behaviors are accessible through smart contracts in BitNeuron network or any other
       blockchain in privacy preserving manner.{" "}
     </p>
     <p className="text-[12px] font-light sm:text-xl mt-2 mb-4">
