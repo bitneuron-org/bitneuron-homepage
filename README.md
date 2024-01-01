@@ -23,7 +23,5 @@ yarn build
 ## Deployment
 
 ```
-yarn build --prod
-rm -rf public/*
-mv build/* public/
+./scripts/deploy.sh
 ```
