@@ -1,0 +1,41 @@
+/* transparent to green to yellow with backdrop blue */
+.bg-gradient-effect-1 {
+  background: linear-gradient(
+    101.58deg,
+    rgba(61, 255, 80, 0) -7.49%,
+    rgba(61, 255, 80, 0.645833) 61.46%,
+    #ffe600 101.03%
+  );
+  -webkit-backdrop-filter: blur(23px);
+  backdrop-filter: blur(23px);
+}
+.bg-gradient-effect-2 {
+  background: linear-gradient(
+    287deg,
+    rgba(61, 255, 80, 0) -7.49%,
+    rgba(61, 255, 80, 0.645833) 61.46%,
+    #ffe600 101.03%
+  );
+  -webkit-backdrop-filter: blur(23px);
+  backdrop-filter: blur(23px);
+}
+
+.bg-gradient-effect-3 {
+  background: linear-gradient(rgba(33, 33, 33, 0.6), rgba(22, 22, 22, 0.6));
+  -webkit-backdrop-filter: blur(23px);
+  backdrop-filter: blur(23px);
+}
+
+/* black triangles */
+.triangle-top-left {
+  width: 0;
+  height: 0;
+  border-top: 300px solid black;
+  border-right: 150px solid transparent;
+}
+.triangle-bottom-right {
+  width: 0;
+  height: 0;
+  border-bottom: 300px solid black;
+  border-left: 150px solid transparent;
+}

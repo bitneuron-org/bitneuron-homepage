@@ -1,0 +1,14 @@
+/* generic layout */
+body {
+  @apply bg-black text-white;
+}
+
+.main-height {
+  min-height: calc(100% - 6rem);
+}
+
+@media (max-width: 640px) {
+  .main-height {
+    min-height: calc(100% - 13rem);
+  }
+}
